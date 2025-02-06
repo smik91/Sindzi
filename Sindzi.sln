@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35514.174 d17.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sindzi.API", "Sindzi.API\Sindzi.API.csproj", "{D660AF70-EA91-4C48-AA27-59C7DC1D016F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sindzi.Bot", "Sindzi.Bot\Sindzi.Bot.csproj", "{07D354CD-CE61-4E8E-A684-D4469253F0A2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sindzi.Common", "Sindzi.Common\Sindzi.Common.csproj", "{FCFBD6CE-60A5-410C-9CD3-450333ADE8B2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D660AF70-EA91-4C48-AA27-59C7DC1D016F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D660AF70-EA91-4C48-AA27-59C7DC1D016F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D660AF70-EA91-4C48-AA27-59C7DC1D016F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D660AF70-EA91-4C48-AA27-59C7DC1D016F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{07D354CD-CE61-4E8E-A684-D4469253F0A2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{07D354CD-CE61-4E8E-A684-D4469253F0A2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{07D354CD-CE61-4E8E-A684-D4469253F0A2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{07D354CD-CE61-4E8E-A684-D4469253F0A2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FCFBD6CE-60A5-410C-9CD3-450333ADE8B2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FCFBD6CE-60A5-410C-9CD3-450333ADE8B2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FCFBD6CE-60A5-410C-9CD3-450333ADE8B2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FCFBD6CE-60A5-410C-9CD3-450333ADE8B2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
